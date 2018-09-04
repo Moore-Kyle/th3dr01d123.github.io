@@ -1,0 +1,77 @@
+header {
+    background-color: grey;
+    font-family: cursive;
+    border-bottom: 5px solid;
+    border-color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+header li{
+    list-style-type: none;
+    display: inline;
+    font-size: 26px;
+    padding: 0px 10px 0px 10px;
+}
+
+#header {
+    text-align: right;
+}
+
+header .highlight {
+    color: rgb(225,225,225);
+    font-weight:bold;
+}
+
+header a:hover{
+    font-weight: bold;
+    color:rgb(150,0,0);
+}
+
+footer {
+    background-color: grey;
+    font-family: arial;
+    border-top: 5px solid;
+    border-color: red;
+    text-align: center;
+}
+
+footer li{
+    list-style-type: none;
+    display: inline;
+    padding:0px 20px 10px 20px;
+}
+
+footer a:hover{
+    color: rgb(80,0,200);
+}
+
+body {
+    background-color: rgb(150,150,150);
+}
+
+pre {
+    font-size: 16px;
+}
+
+#EP2 img {
+    width: 100%;
+}
+
+#GHS img {
+    width: 100%;
+}
+
+#SFBAC img {
+    width: 100%;
+}
+
+h2 {
+    border-top: 2px solid;
+    font-size: 28px;
+}
+
+img {
+    border-top: 1px solid;
+    margin-top: 5px;
+}
