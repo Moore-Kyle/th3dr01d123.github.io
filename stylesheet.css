@@ -18,9 +18,12 @@ header li{
     text-align: right;
 }
 
+#project {
+    font-weight: bold;
+}
+
 header .highlight {
     color: rgb(225,225,225);
-    font-weight:bold;
 }
 
 header a:hover{
@@ -71,7 +74,6 @@ h2 {
     font-size: 28px;
 }
 
-img {
-    border-top: 1px solid;
-    margin-top: 5px;
+a {
+    text-decoration: none !important;
 }
