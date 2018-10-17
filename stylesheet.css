@@ -77,3 +77,8 @@ h2 {
 a {
     text-decoration: none !important;
 }
+
+#video {
+    display: block;
+    margin: 0 auto;
+}
